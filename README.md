@@ -1,4 +1,4 @@
-# <style font-family: "Times New Roman"><span style="background:#FEF035">Title</span></style>
+# <span style="background:#FEF035">*Yellow is the new black*</span>
 
 # Abstract
 The creation and propagation of false information has existed since the dawn of time.
