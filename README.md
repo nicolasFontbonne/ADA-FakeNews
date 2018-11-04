@@ -1,4 +1,7 @@
 # *Yellow is the new black*
+<dl>
+  <h1><span style="background:#FEF035"> Yellow is the new black</h1>
+</dl>
 
 # Abstract
 The creation and propagation of false information has existed since the dawn of time.
@@ -43,4 +46,11 @@ We will also have to keep in mind that this database is not exhaustive and is ce
 | 25 November | Explore fitting visualisation types (graphs,chord diagrams,maps) for each question. |
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+* Is it possible to make a false final report, if it is intentional?
+* Are we free to use any tools suitable for the processing and visualisation of the dataset i.e `D3.js`?
+
+# Team members
+
+* Konstantinos Koukas
+* Jeremy Wanner
+* Nicolas Fontbonne
