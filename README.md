@@ -19,6 +19,7 @@ Through this work, we hope to :
 1. What is the dominating level of falsehood (half-true, mostly-true, etc) and how does it change in different contexts (job title, venue)?
 1. What is the prevalent sentiment of fake-news stories: i.e fear, anger, joy?
 1. Visualise rise of false statements before elections.
+1. Are buzzwords, fillers and weasel words usually used in fake statements?
 
 
 
