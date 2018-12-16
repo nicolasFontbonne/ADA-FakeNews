@@ -1,5 +1,7 @@
 # *Yellow is the new black*
 
+[Our data story](https://nicolasfontbonne.github.io/)
+
 # Abstract
 The creation and propagation of false information has existed since the dawn of time.
 Behind these misleading elements are often hidden political or financial intentions, in order to gain credit or make competitors lose it.
@@ -21,8 +23,6 @@ Through this work, we hope to :
 1. Visualise rise of false statements before elections.
 1. Are buzzwords, fillers and weasel words usually used in fake statements?
 
-
-
 # Dataset
 The database is [easily accessible](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip). This database contains three sets, as it is originally intended to detect false information through automated learning algorithms.
 By combining all the available sets, the dataset consists of 12800 short quotes extracted from the [Politifact site](https://www.politifact.com/truth-o-meter/).
@@ -34,21 +34,16 @@ With the help of the [Politifact API](https://www.politifact.com//api/v/2/statem
 
 We will also have to keep in mind that this database is not exhaustive and is certainly subject to significant biases.
 
-# A list of internal milestones up until project milestone 2
+# Our final data story:
+You can access the webpage of our final data story and lies through [this link](https://nicolasfontbonne.github.io/). We hope you'll enjoy reading it!
 
-| Date        | Advancement |
-| ----------- |-------------|
-| 10 November | Load the data, clear the data and familiarize with it. |
-| 15 November | Compute the first statistics and simple data visualisation with matplotlib. |
-| 20 November | Refine data story with a structured plan according to our exploration of the data.      |
-| 25 November | Explore fitting visualisation types (graphs,chord diagrams,maps) for each question. |
 
-# Questions for TAs
-* Is it possible to make a false final report, if it is intentional?
-* Are we free to use any tools suitable for the processing and visualisation of the dataset i.e `D3.js`?
+# Team members and contributions:
+ 
+* Konstantinos Koukas: Relationship model, graph visualisation (part 2), poster design and organisation...
+* Jeremy Wanner: NLP analysis, content of abstract and part 3 of the report, poster design and organisation...
+* Nicolas Fontbonne: Time and distribution analysis (part 1, intro), website architecture and graphical design, poster design and organisation...
 
-# Team members
-
-* Konstantinos Koukas
-* Jeremy Wanner
-* Nicolas Fontbonne
+# Remerciements
+This study would not have been possible without the tremendous work done by Politifact and later by William Yang Wang. Separating what is true from what is false is not always easy, and the energy required to do so and to alert fellow citizens about it is enormous. A huge thank you for making a ready-to-use study topic available, and with it the many “rire jaunes” that have punctuated our work.
+And final word for the amazing working team of the ADA course, Westeros TAs and Master, thank you!
